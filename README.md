@@ -1,3 +1,3 @@
-# upload_multiple_image_node.js
+# upload_multiple_images_node.js
 
-Backend code for uploading multiple images in mongo using node js
+Backend code for uploading multiple images in mongodb using node.js
